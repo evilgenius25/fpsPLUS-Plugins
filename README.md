@@ -1,2 +1,3 @@
-# fpsPLUS-Plugins
-These are my plugins for the fpsPLUS system!
+#       ___  __        __   __           __             __         
+# |  | |__  |__) |__| /  \ /  \ |__/    |__) |    |  | / _` | |\ | 
+# |/\| |___ |__) |  | \__/ \__/ |  \    |    |___ \__/ \__> | | \| 
