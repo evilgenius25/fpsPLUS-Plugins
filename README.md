@@ -1,3 +1,3 @@
-#       ___  __        __   __           __             __         
-# |  | |__  |__) |__| /  \ /  \ |__/    |__) |    |  | / _` | |\ | 
-# |/\| |___ |__) |  | \__/ \__/ |  \    |    |___ \__/ \__> | | \| 
+# fpsPLUS Plugins
+### fpsPLUS made by Blaze/DevHue, Plugins by Evil.
+`You May Not Steal The Plugins We Provide!`
